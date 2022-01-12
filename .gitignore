@@ -1,0 +1,16 @@
+/node_modules
+/public/coverage
+/public/storage
+/public/vendor/telescope
+/public/mix-manifest.json
+/public/css
+/public/js
+/storage/*.key
+/vendor
+Homestead.yaml
+Homestead.json
+.env
+.env.backup
+*.map
+.idea
+.phpunit.result.cache
